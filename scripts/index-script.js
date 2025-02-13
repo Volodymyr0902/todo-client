@@ -41,8 +41,7 @@ let vue = new Vue({
       login: '',
       pass: '',
       backendLanguage: 'JS',
-      apiURL: 'https://todo-app-5ui6.onrender.com/api/',
-      // http://localhost:8080/api/
+      apiURL: 'http://localhost:8080/api/',
       apiVersion: 'v1',
       step: ''
   },
